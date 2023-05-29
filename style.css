@@ -1,5 +1,5 @@
 .bg-img1 {
-  background-color: #fff;
+  background-color: #000;
   background-size: cover;
   background-image: url(http://globalholidaytour.com/images/Hu%E1%BA%BF%2054.jpg);
 }
@@ -17,7 +17,7 @@
 }
 
 .footer {
-  margin: 100px 50px 40px 50px;
+  margin: 100px 35px 0px 35px;
   display: flex;
   flex-wrap: wrap;
   font-size: x-small;
